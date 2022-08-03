@@ -5,4 +5,4 @@ To login on 3rd party websites using the same username and password what you hav
 
 That is a complete Plugin but here you will get only 40% of code other 60% is missing from here.
 
-Contact me to get the full code and plugin using the email - ruchi9570@gmail.com or Hire me at Upwork - https://www.upwork.com/freelancers/sachinpatel134
+Contact me to get the full code and plugin using the email - ruchi9570@gmail.com 
